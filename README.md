@@ -28,14 +28,14 @@
     
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=API)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
 ![Data Structures & Algorithms](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-05122A?style=flat)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Soft Skills](https://img.shields.io/badge/-Soft%20Skills-05122A?style=flat)&nbsp;
 ![Git & GitHub](https://img.shields.io/badge/-Git%20&%20GitHub-05122A?style=flat)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Cubit](https://img.shields.io/badge/-Cubit-05122A?style=flat)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![GetX](https://img.shields.io/badge/-GetX-05122A?style=flat)&nbsp;
 
 
@@ -43,10 +43,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miralyaser9&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<br clear="left">
-
-<div style="height: 40 px;"></div>
-
+<br>
 <a href="https://komarev.com/ghpvc/?username=miralyaser9&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=miralyaser9&style=for-the-badge">
 </a>
