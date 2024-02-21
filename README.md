@@ -43,7 +43,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miralyaser9&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<br>
+<br clear="left">
+
 <a href="https://komarev.com/ghpvc/?username=miralyaser9&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=miralyaser9&style=for-the-badge">
 </a>
