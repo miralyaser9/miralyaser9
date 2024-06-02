@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV4Y3JqbGJtOGxuc2VsdmYwcXo2YmR4dTgzZ2Rob3N0dXMxNGc4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NyvreZAtNLrNKTrKa/giphy.gif">
 
 <h3 align="center">
   Welcome to Miral Yasser's profile!
