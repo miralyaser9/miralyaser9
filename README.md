@@ -11,7 +11,7 @@
 </p> 
 
 - 🏢 I'm a Mobile Application Developer
-- 👨‍💻 As a Medical Informatics student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Medical Informatics Graduate, I'm constantly learning and exploring new technologies to improve my skills.
 
 
 
